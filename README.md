@@ -15,7 +15,7 @@ This app takes your OTU student schedule and turns it into a Google calendar sch
 - Click the dropdown arrow on all your courses
   ![Dropdown](https://github.com/user-attachments/assets/ea513273-d2a6-4f71-8308-94b5f89c9424)
 - Click and drag to select everything in the Schedule Details section, then copy it.
-- Paste the copied data into a text file named `my_schedule.txt` and put it in the same folder as main.exe `schedule-inator\dist\main`
+- Paste the copied data into a text file you created named `my_schedule.txt` and put it in the same folder as main.exe `schedule-inator\dist\main`
 - then run the `main.exe` file, and that's it!
 
 
